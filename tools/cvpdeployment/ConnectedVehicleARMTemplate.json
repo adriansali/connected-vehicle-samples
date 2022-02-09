@@ -52,7 +52,7 @@
         },
         "enablePrivateEndpointConnectionToAnalytics": {
             "type": "bool",
-            "defaultValue": true,
+            "defaultValue": false,
             "metadata": {
                 "description": "Specifies whether the platform account should access the analytics storage account through a private endpoint connection."
             }
